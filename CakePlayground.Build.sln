@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "CakePlayground\build\CakeBuild.csproj", "{AC419FBF-2907-4BC5-9AD6-F01FDCCB3981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC419FBF-2907-4BC5-9AD6-F01FDCCB3981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC419FBF-2907-4BC5-9AD6-F01FDCCB3981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC419FBF-2907-4BC5-9AD6-F01FDCCB3981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC419FBF-2907-4BC5-9AD6-F01FDCCB3981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
